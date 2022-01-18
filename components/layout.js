@@ -1,10 +1,17 @@
+/*
+ * @Description: 修改
+ * @Author: Feineng.Xia
+ * @Date: 2021-12-13 04:10:40
+ * @LastEditors:  by Feineng.Xia
+ * @LastEditTime: 2022-01-18 15:54:37
+ */
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = '[Your Name]'
+const name = 'Jinxhao18'
 export const siteTitle = 'Next.js Sample Website'
 
 export default function Layout({ children, home }) {
